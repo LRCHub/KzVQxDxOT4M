@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Won't Sleep",
+  "base_artist": "Tones And I",
+  "createdAt": "2025-12-09T06:12:30.419365Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "They Won't Sleep",
+      "artist": "kyte",
+      "has_synced": true,
+      "path": "select/01_They_Won't_Sleep_kyte.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Won't Sleep",
+      "artist": "Tones and I",
+      "has_synced": true,
+      "path": "select/02_Won't_Sleep_Tones_and_I.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Won't Sleep",
+      "artist": "Can't Swim",
+      "has_synced": true,
+      "path": "select/03_We_Won't_Sleep_Can't_Swim.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sleep Won't Sleep",
+      "artist": "The Cat Empire",
+      "has_synced": false,
+      "path": "select/04_Sleep_Won't_Sleep_The_Cat_Empire.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The World Wont Sleep",
+      "artist": "White Moth Black Butterfly",
+      "has_synced": true,
+      "path": "select/05_The_World_Wont_Sleep_White_Moth_Black_Butterfly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Won't Sleep",
+      "artist": "Handsome Ghost",
+      "has_synced": true,
+      "path": "select/06_We_Won't_Sleep_Handsome_Ghost.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Sun Won't Sleep",
+      "artist": "New Empire",
+      "has_synced": true,
+      "path": "select/07_The_Sun_Won't_Sleep_New_Empire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sleep Won't Sleep (Live at Ancienne Belgique)",
+      "artist": "The Cat Empire",
+      "has_synced": true,
+      "path": "select/08_Sleep_Won't_Sleep_(Live_at_Ancienne_Belgique)_The_Cat_Empire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Dead Won't Sleep",
+      "artist": "Mountain Witch",
+      "has_synced": true,
+      "path": "select/09_The_Dead_Won't_Sleep_Mountain_Witch.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Won't Sleep",
+      "artist": "Lostboycrow",
+      "has_synced": true,
+      "path": "select/10_Love_Won't_Sleep_Lostboycrow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "City Won't Sleep (Moto Blanco Club Mix)",
+      "artist": "Steve Appleton",
+      "has_synced": false,
+      "path": "select/11_City_Won't_Sleep_(Moto_Blanco_Club_Mix)_Steve_Appleton.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Won't Sleep Tonight (feat. PrinceWhateverer & Blackened Blue)",
+      "artist": "SnowShovel",
+      "has_synced": false,
+      "path": "select/12_I_Won't_Sleep_Tonight_(feat._PrinceWhateverer_&_Blackened_Blue)_SnowShovel.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Won't Sleep Tonight",
+      "artist": "SnowShovel",
+      "has_synced": false,
+      "path": "select/13_I_Won't_Sleep_Tonight_SnowShovel.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The City Won't Sleep Tonight",
+      "artist": "Blackout Problems",
+      "has_synced": false,
+      "path": "select/14_The_City_Won't_Sleep_Tonight_Blackout_Problems.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Won't Sleep Tonight",
+      "artist": "Wann",
+      "has_synced": true,
+      "path": "select/15_Won't_Sleep_Tonight_Wann.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Won't Sleep (feat. Ewan J Phillips)",
+      "artist": "RAENE",
+      "has_synced": false,
+      "path": "select/16_Won't_Sleep_(feat._Ewan_J_Phillips)_RAENE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Won't Sleep",
+      "artist": "Tones And I",
+      "has_synced": false,
+      "path": "select/pl_01_Won't_Sleep_Tones_And_I.txt"
+    }
+  ]
+}
